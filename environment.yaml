@@ -1,0 +1,9 @@
+name: project-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - python
+  - scikit-learn
+prefix: C:\Users\panda\miniconda3\envs\project-env
