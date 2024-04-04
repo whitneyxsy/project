@@ -4,6 +4,6 @@ channels:
   - defaults
 dependencies:
   - jupyterlab
-  - python
-  - scikit-learn
+  - python=3.10
+  - scikit-learn=1.2.1
 prefix: C:\Users\panda\miniconda3\envs\project-env
